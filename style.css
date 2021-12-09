@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    border-bottom: cadetblue 2px solid;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    background-color: lightblue;
+    color: black;
+}
+li {
+    margin: 10px 0;
+    list-style: none;
+    
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+}
